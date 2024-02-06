@@ -15,6 +15,7 @@ Resolver as questões propostas para cada dataset disponibilizado.
 ### 1. Configuração Inicial:
 
 - Configurar um ambiente Spark:
+
 Você pode usar o código abaixo para simular um ambiente pyspark no Colab:
 ```
 !apt-get install openjdk-8-jdk-headless -qq > /dev/null
