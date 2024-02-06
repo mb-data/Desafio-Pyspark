@@ -8,7 +8,7 @@ Olá, candidato! Se você chegou até aqui, é porque demonstrou interesse em fa
 
 ## 🚀 Objetivo:
 
-Resolver as questões propostas para cada dataset disponibilizado.
+Resolver as questões propostas para cada dataset disponibilizado com spark DataFrame.
 
 ## 📜 Requisitos:
 
@@ -52,6 +52,8 @@ Baixe os datasets no seu ambiente Colab:
   - Crie uma coluna "Custo-Benefício" que aplique o conceito a seguir:
     - Some o peso com a cilindrada dividida pela quantidade de cilindros.
     - Subtraia o valor acima pela aceleração multiplicada pela quantidade de cavalos.
+   
+- Não esqueça de salvar o DataFrame final.
 
 ### 4. Validações e Erros:
 
